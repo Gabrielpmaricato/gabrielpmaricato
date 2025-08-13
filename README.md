@@ -1,4 +1,5 @@
-<h1 align="center">Olá 👋, meu nome é Gabriel Peterossi Maricato, mas pode me chamar de Bielson.</h1>
+<h1>Olá 👋 
+<br><br>Meu nome é Gabriel Peterossi Maricato, mas pode me chamar de Bielson.</h1>
 
 ###
 
