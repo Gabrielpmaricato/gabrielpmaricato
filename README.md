@@ -1,6 +1,11 @@
 <h1>Olá 👋 
 <br><br>Meu nome é Gabriel Peterossi Maricato, mas pode me chamar de Bielson.</h1>
 
+<h3>Gosto bastante de tecnologia, música, arte e skate.</h3>
+<h3>Trabalho com desenvolvimento de software profissionalmente desde 2009</h3>
+
+<hr>
+
 ###
 
 <div align="center">
