@@ -2,8 +2,11 @@
 
 <h3>Meu nome é Gabriel Peterossi Maricato, mas pode me chamar de Bielson.</h3>
 
-<h3>Gosto bastante de tecnologia, música, arte e skate.</h3>
-<h3>Com mais de 15 anos de experiência, trabalho com desenvolvimento de sistemas desde 2009, sempre focado em qualidade, inovação e resultados.</h3>
+<p>Gosto bastante de tecnologia, música, arte e skate.</p>
+
+<p>Com mais de 15 anos de experiência, trabalho com desenvolvimento de sistemas desde 2009, sempre focado em qualidade, inovação e resultados.</p>
+
+<p>Estou em busca do equilíbrio entre duas paixões que me definem: a programação e a arte. Unir lógica e criatividade é o meu desafio e minha motivação.</p>
 
 <hr>
 
